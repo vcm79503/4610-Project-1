@@ -4,7 +4,7 @@
 **Group 4**
 
 ## Team Members
-1. Vivek Murugulla
+1. Vivek Murugulla [vcm79503](https://github.com/vcm79503/4610-Project-1/blob/main/README.md)
 2. Sejal Arora 
 3. Angie Lin
 4. Alyssa Luangxay
